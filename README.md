@@ -1,7 +1,11 @@
-# RRG
-## Popular Arches of the Red River Gorge, Kentucky 
 
-[Link to GeoPDF](basemap/rrg.pdf)
+
+
+## Popular Arches of the Red River Gorge, Kentucky 
+[Web page at: https://orst223.github.io/RRG/](https://orst223.github.io/RRG/) 
+
+## Image of GeoPDF
+![Image of GeoPDF](basemap/RRG.jpg)
 
 ## Images of Arches 
 
