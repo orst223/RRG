@@ -9,7 +9,7 @@
 
 ## Images of Arches 
 
-![Princess Arch](https://toredrivergorge.files.wordpress.com/2011/03/princess-arch-3.jpg)
+![Princess Arch](https://toredrivergorge.files.wordpress.com/2011/03/princess-arch-3.jpg). 
 *Princess Arch* Photograph From RedRiverGorge.com
 
 ![Sand Gap Arch](https://lh3.googleusercontent.com/proxy/ycjBru_EAPZZVmx60BGf6d8M5aDdH0pWcV96tk9bdnCKfU8q32ElOrml0AkZ9ri_oePKJesyrRumnVeaLQNIPG0c7ys-oKPKOVmNYWNL4tx5dLQ-KbAImiESImwrueoZZx-a)
