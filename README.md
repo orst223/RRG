@@ -7,6 +7,8 @@
 ## Image of GeoPDF
 ![Image of GeoPDF](basemap/RRG.jpg)
 
+Download [GeoPDF](basemap/RRG.pdf)
+
 ## Images of Arches 
 
 ![Princess Arch](https://toredrivergorge.files.wordpress.com/2011/03/princess-arch-3.jpg)  
