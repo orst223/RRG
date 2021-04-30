@@ -25,4 +25,4 @@ Download [GeoPDF](basemap/rrg.pdf)
 # Turtle Back Arch 
 ![Turtle Back Arch](TB_arch.jpg)
 
-[Turtle Back Animation](C:\Stoll\RRG\TBArch.mp4)
+[Turtle Back Animation](TBArch.mp4)
