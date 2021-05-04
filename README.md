@@ -15,7 +15,7 @@ Download [GeoPDF](basemap/rrg.pdf)
 ![Princess Arch](https://toredrivergorge.files.wordpress.com/2011/03/princess-arch-3.jpg)  
 *Princess Arch* Photograph From RedRiverGorge.com
 
-![Sand Gap Arch](C:\Stoll\RRG\sandgap.jpg)
+![Sand Gap Arch](basemap/sandgap.jpg)
 *Sand Gap Arch* Photograph from UKArches.com
 
 ![Cloud Splitter Arch](https://sp-images.summitpost.org/940419.JPG?auto=format&fit=max&ixlib=php-2.1.1&q=35&w=500&s=15ef757bab2fe5bccc1f583589442e0d)   
