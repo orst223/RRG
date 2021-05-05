@@ -28,4 +28,4 @@ Download [GeoPDF](basemap/rrg.pdf)
 [Turtle Back Animation](TBArch.mp4)
 
 
-[Site Map of Natural Bridge](https://orst223.github.io/RRG/Site-map)
+[Site Map of Natural Bridge](https://api.mapbox.com/styles/v1/orst223/ckoa54zij2b4c18s5z36gkzck.html?fresh=true&title=view&access_token=pk.eyJ1Ijoib3JzdDIyMyIsImEiOiJja25lb2NqNm0xZ2M1MnBvMGtmOWVycHZnIn0.6kH5yUL641buzTECqM4b5A)
